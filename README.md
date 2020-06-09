@@ -1,2 +1,2 @@
 # introductory-programming
-Codes written while practicing the C++ language
+Codes written for learning the C++ language. 
